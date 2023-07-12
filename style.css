@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+}
+.navbar-brand img{
+width: 20%;
+}
+header section .M{
+    background-color: aqua;
+    text-align: center;
+}  
+header section nav{
+
+justify-content: right;
+margin-left: 550px;
+margin-right: 0px;
+margin-top: 110px;
+width: 20%;
+border-bottom: 0 auto;
+}
+.A{
+    text-align: center;
+}
+.B{
+background-color:aliceblue;
+
+}
+.btn-outline-success {
+text-align: center;
+margin: 20px;
+padding: 2px;
+right: 50px;
+}
+.secttion p{
+    text-align: center;
+}
